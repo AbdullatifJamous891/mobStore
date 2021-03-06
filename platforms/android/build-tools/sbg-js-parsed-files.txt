@@ -1,4 +1,0 @@
-/home/abdullatif/Documents/mobStore/platforms/android/app/src/main/assets/app/runtime.js
-/home/abdullatif/Documents/mobStore/platforms/android/app/src/main/assets/app/tns-java-classes.js
-/home/abdullatif/Documents/mobStore/platforms/android/app/src/main/assets/app/bundle.js
-/home/abdullatif/Documents/mobStore/platforms/android/app/src/main/assets/app/vendor.js
